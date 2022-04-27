@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Publish to Gitbook to Github Pages
 
 # Controls when the workflow will run
 on:
@@ -18,6 +18,11 @@ jobs:
     name: Build Gitbook
     runs-on: ubuntu-latest
     steps:
+      # Cancel previous runs
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.4.1
+        with:
+          access_token: ${{ github.token }} 
       # Check out the repo first
       - name: Checkout code
         uses: actions/checkout@v2
