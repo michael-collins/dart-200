@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Creative Research in Digital Arts & Media Design](README.md)
