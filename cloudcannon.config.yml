@@ -1,0 +1,10 @@
+collection_groups:
+  - heading: Blogging
+    collections:
+      - posts
+      - drafts
+  - heading: Other
+    collections:
+      - pages
+      - staff
+      - features
