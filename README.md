@@ -1,6 +1,6 @@
 # Gitbook Autopublish on Github Pages
 
-This repo uses github actions to publish using Gitbook Legacy on Git Pages 
+This is the easiest way to set up and host (publish) Gitbook websites for free. This repo uses github actions to publish using Gitbook Legacy on Git Pages whenever you make updates. Very little configuration is required.
 
 1. Fork this repository
 2. Edit book settings in `book.json`
