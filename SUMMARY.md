@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Introduction](introduction.md)
+* [Page 1](page-1.md)
   * [Examples](examples.md)
