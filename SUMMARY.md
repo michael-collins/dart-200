@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Creative Research in Digital Arts & Media Design](README.md)
+* [Gitbook Autopublish on Github Pages](README.md)
 * [Introduction](introduction.md)
 * [Examples](examples.md)
